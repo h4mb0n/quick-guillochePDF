@@ -1,3 +1,6 @@
+CONTEXT.md
+.claude/
+
 # Environnement Python
 .venv/
 __pycache__/
