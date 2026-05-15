@@ -1,0 +1,13 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Résultats générés (ne pas versionner)
+samples/output/*
+!samples/output/.gitkeep
+
+# PDFs temporaires / personnels à la racine
+*.pdf
+!samples/input/*.pdf
